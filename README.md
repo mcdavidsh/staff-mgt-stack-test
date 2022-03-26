@@ -2,10 +2,12 @@
 
 1) Unzip the php project to server folder and import the msql database from the mysql folder to your database server.
 
-2a) **If on localhost:**
+2) Set your database credentials in the .env file.
+
+3a) **If on localhost:**
  start php local server with php -S localhost:8000
 
-2b) **If on webhost/live server:** live host change app_domain to your web address url in database > settings table
+3b) **If on webhost/live server:** live host change app_domain to your web address url in database > settings table
 
 # **demo admin login:**
 
