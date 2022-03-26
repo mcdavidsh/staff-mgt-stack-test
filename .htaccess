@@ -1,0 +1,17 @@
+# BEGIN
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+####Remove .php
+ RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+ RewriteRule ^ /%1 [NC,L,R]
+
+ RewriteCond %{REQUEST_FILENAME}.php -f
+ RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+ #reroute all pages to index
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^(.+)$ /index.php [QSA,L]
+</IfModule>
+# END

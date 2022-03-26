@@ -1,0 +1,21 @@
+{
+  "name": "mcdavidsh/staff-mgt-stack-test",
+  "description": "This is a test application for staff management",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "David",
+      "email": "mcdave92@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["core/controllers"],
+    "psr-4": {
+      "mcdavidsh\\controllers\\": "core/controllers"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.4"
+  }
+}

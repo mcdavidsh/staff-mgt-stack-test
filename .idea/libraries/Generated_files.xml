@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/dataTables.rowGroup.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/dataTables.select.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/datatables.buttons.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/datatables.checkboxes.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/responsive.bootstrap5.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/responsive.dataTables.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/simple-datatables/simple-datatables.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/plugin/databasic/summernote-ext-databasic.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-bs4.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-bs4.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-lite.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-lite.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote.min.js" />
+        <item url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote.min.min.js" />
+        <item url="file://$PROJECT_DIR$/core/controllers/controllers.min.js" />
+        <item url="file://$PROJECT_DIR$/core/controllers/util.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/simple-datatables/simple-datatables.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/plugin/databasic/summernote-ext-databasic.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-bs4.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-bs4.min.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-lite.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-lite.min.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote.min.js" />
+        <item url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote.min.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/dataTables.rowGroup.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/dataTables.select.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/datatables.buttons.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/datatables.checkboxes.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/responsive.bootstrap5.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/jquery-datatables/responsive.dataTables.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/simple-datatables/simple-datatables.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/plugin/databasic/summernote-ext-databasic.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-bs4.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-bs4.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-lite.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote-lite.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote.min.js" />
+      <root url="file://$PROJECT_DIR$/core/assets/vendors/summernote/summernote.min.min.js" />
+      <root url="file://$PROJECT_DIR$/core/controllers/controllers.min.js" />
+      <root url="file://$PROJECT_DIR$/core/controllers/util.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/simple-datatables/simple-datatables.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/plugin/databasic/summernote-ext-databasic.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-bs4.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-bs4.min.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-lite.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote-lite.min.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote.min.js" />
+      <root url="file://$PROJECT_DIR$/mazer-main/dist/assets/vendors/summernote/summernote.min.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
