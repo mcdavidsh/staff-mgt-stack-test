@@ -221,7 +221,7 @@ class template extends controllers
         <footer>
             <div class="footer clearfix mb-0 text-muted">
                 <div class="float-start">
-                    <p><?php echo date("Y")?> &copy; <?php echo $this->app_info()->app_name ?> Powered by <a href="https://github/mcdavidsh/">David</a></p>
+                    <p><?php echo date("Y")?> &copy; <?php echo $this->app_info()->app_name ?> Powered by <a href="https://github.com/mcdavidsh" target="_blank">David</a></p>
                 </div>
                 <div class="float-end d-flex align-items-baseline">
                     <p>Template Credits <a
