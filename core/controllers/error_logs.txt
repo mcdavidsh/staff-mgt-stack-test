@@ -1,0 +1,12 @@
+[26-Mar-2022 13:06:36 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$domain in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\template\template.php on line 28
+[26-Mar-2022 13:06:36 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$domain in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\template\template.php on line 34
+[26-Mar-2022 13:06:36 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:06:36 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:06:56 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$domain in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\template\template.php on line 28
+[26-Mar-2022 13:06:56 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$domain in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\template\template.php on line 34
+[26-Mar-2022 13:06:56 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:06:56 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:06:59 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:06:59 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:08:43 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54
+[26-Mar-2022 13:08:43 Africa/Lagos] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\myprojects\staff-mgt-stack-test\core\controllers\controllers.php on line 54

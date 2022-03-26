@@ -25,13 +25,13 @@ class template extends controllers
             <meta name="title" content="<?php echo $this->app_info()->app_name ?> | <?php echo $this->app_info()->app_tagline ?>">
             <meta name="description" content="<?php echo $this->app_info()->app_tagline ?>">
             <meta property="og:type" content="website">
-            <meta property="og:url" content="<?php echo $this->app_info()->domain ?>">
+            <meta property="og:url" content="<?php echo $this->app_info()->app_domain ?>">
             <meta property="og:title" content="<?php echo $this->app_info()->app_name ?> | <?php echo $this->app_info()->app_tagline ?>">
             <meta property="og:description" content="<?php echo $this->app_info()->app_tagline ?>">
 
             <!-- Twitter -->
             <meta property="twitter:card" content="summary_large_image">
-            <meta property="twitter:url" content="<?php echo $this->app_info()->domain ?>">
+            <meta property="twitter:url" content="<?php echo $this->app_info()->app_domain ?>">
             <meta property="twitter:title" content="<?php echo $this->app_info()->app_name ?> | <?php echo $this->app_info()->app_tagline ?>">
             <meta property="twitter:description" content="<?php echo $this->app_info()->app_tagline ?>">
             <?php break;
@@ -66,7 +66,11 @@ class template extends controllers
                 case $route->security->route:
                 ?>
             <title> <?php echo str_replace("-"," ",basename(ucwords($request))) ?> | <?php echo $this->app_info()->app_name ?> </title>
-
+                    <?php
+                    break;
+                    case $route->forgot_pass->route:
+                    ?>
+                    <title> <?php echo str_replace("-"," ",basename(ucwords($request))) ?> | <?php echo $this->app_info()->app_name ?> </title>
             <?php
                 break;
             default:
@@ -156,8 +160,7 @@ class template extends controllers
                                 </ul>
                             </li>
                         <?php endif; ?>
-                        <li
-                                class="sidebar-item <?php $this->active_nav("/security"); ?> ">
+                        <li class="sidebar-item <?php $this->active_nav("/security"); ?> ">
                             <a href="/security" class='sidebar-link'>
                                 <i class="bi bi-shield-fill"></i>
                                 <span>Security</span>
